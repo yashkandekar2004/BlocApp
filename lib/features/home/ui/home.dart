@@ -48,7 +48,7 @@ class _HomeState extends State<Home> {
             return Scaffold(
               body: Center(
                 child: CircularProgressIndicator(
-                  color: Colors.black,
+                  color: Colors.blue,
                 ),
               ),
             );
